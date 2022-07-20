@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">WhetherApp</string>
+    <string name="press">Press</string>
+    <string name="search_places">Search Places</string>
+    <string name="date_and_time">13 December , 2:30pm</string>
+    <string name="day">Day 13</string>
+    <string name="temperature">16*</string>
+    <string name="feels_alike">Feels Like 16*</string>
+    <string name="whether_type">Drizzle</string>
+    <string name="default_number">100</string>
+    <string name="pressure">Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="wind">Wind</string>
+    <string name="sunrise">Sunrise</string>
+    <string name="sunset">Sunset</string>
+    <string name="fahrenheit">Fahrenheit</string>
+
+</resources>
